@@ -6,3 +6,22 @@ Neural Network: A construct in Machine Learning inspired by the network of neuro
 
 Deep Learning: A subfield of machine learning that uses multi-layered neural networks. Often, “machine learning” and “deep learning” are used interchangeably.
 
+
+
+
+
+
+
+Traditional Software Dev.
+The input and the algorithm is known, and you write a function to produce an output
+
+- Input data
+- Apply logic to it
+- Which produces a result
+
+Machine Learning
+
+You know the input and the output, but you don't know the algorithm that creates the output given the input
+
+- Take pairs of input and output data
+- Figure out the algorithm
